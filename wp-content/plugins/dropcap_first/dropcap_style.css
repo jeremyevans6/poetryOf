@@ -1,0 +1,11 @@
+
+p.dropcap-first:first-letter {
+color: #D4D4C7;
+float: left;
+font-size:80px;
+line-height:60px;
+padding-top:4px;
+padding-right:5px;
+font-family: Times, serif, Georgia;
+}
+
